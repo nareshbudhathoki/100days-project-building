@@ -15,6 +15,7 @@ All projects are stored in **this repository**, each inside its own folder.
 
 ## 📂 Projects
 1. **Quiz App** (HTML, CSS, JavaScript) – Completed
+2. **Color Palette Generator** (HTML, CSS, JavaScript) – Completed
 
 > I will continue updating this list as I add more projects daily.
 
